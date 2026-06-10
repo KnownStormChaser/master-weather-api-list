@@ -40,12 +40,13 @@ A note on the "built on" field: where a provider states which model or data sour
 
 ## Repository structure
 
-APIs are organized by category:
-- **Major / widely-used commercial providers**
-- **Independent & alternative providers**
-- **National & regional meteorological services**
+Every provider gets its own file in a single flat [`APIs/`](./APIs/) folder — **one entry per provider**, named predictably (e.g. `accuweather.md`, `open-meteo.md`). There are no sub-folders: not by country, not by commercial-vs-government, and not by data type.
 
-Each provider has its own file, with **one entry per provider** rather than a split by data type — these APIs are sold as bundles (one key, one set of docs covering forecasts, alerts, and the rest), so a per-data-type split would misrepresent how they're actually packaged.
+This is deliberate. The obvious category splits all overlap. Several national met offices (the UK Met Office, Météo-France, DWD) also sell commercial API tiers; "independent" providers often have paid plans too; and country folders would scatter the list into a pile of one-entry directories. Forcing each provider into a single bucket would misfile more entries than it would organize. Keeping one entry per provider also matches how these APIs are actually sold — as bundles (one key, one set of docs covering forecasts, alerts, and the rest), not as separable data types.
+
+Browsing by a slice — the non-American ones, the free ones, the national services — is handled by an index rather than by folders:
+
+- [`INDEX.md`](./INDEX.md) — a single scannable table of every provider (name, where it's based, access model, pricing model, coverage), so the whole catalog can be taken in at a glance or narrowed with a quick text search
 
 Each entry describes:
 - what the service is and who it's for
