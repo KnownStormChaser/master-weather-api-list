@@ -49,6 +49,7 @@ Each provider has its own file, with **one entry per provider** rather than a sp
 
 Each entry describes:
 - what the service is and who it's for
+- where the provider is based
 - what data types it provides
 - how you get access, and the pricing model
 - free tier, rate limits, and output formats where published
