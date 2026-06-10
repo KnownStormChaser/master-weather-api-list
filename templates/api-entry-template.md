@@ -7,6 +7,7 @@ Copy the block below for each new provider. Keep the fields in the same order so
 
 One-line summary of what the service is and who it's for.
 
+- **Based in:** city, state/province, country — or at minimum the country (where known)
 - **Access model:** instant self-serve / paid account / no key required / approval required / sales contact
 - **Pricing model:** free / freemium / paid / custom
 - **Coverage / data types:** forecast, current, historical, alerts, radar, air quality, marine, etc.
@@ -24,6 +25,11 @@ One-line summary of what the service is and who it's for.
 ---
 
 ## Field definitions
+
+### Based in — where the provider is from
+The provider's home country, and the city and state/province where known. List as much as you can confirm (e.g. `Cupertino, California, USA`); fall back to country alone (e.g. `Germany`) when the rest isn't documented, and omit the field entirely if even the country is unclear.
+
+This is the operator's origin, **not** where its forecasts are most accurate — that's the separate **Geographic strength** field. A provider based in one country often forecasts best for another (or globally), so the two are kept distinct.
 
 ### Access model — how you get in the door
 This is recorded separately from price because it's usually the most decision-relevant detail and changes far less often than dollar figures.
