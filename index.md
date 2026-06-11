@@ -13,6 +13,7 @@ There are no category folders by design; this table is how you slice the catalog
 | [Open-Meteo](./APIs/open-meteo.md) | Bürglen, Switzerland | No key (free) / self-serve (paid) | Freemium | forecast, historical, marine, air quality |
 | [OpenWeather](./APIs/openweather.md) | London, UK | Instant self-serve | Freemium | current, forecast, historical, air quality, maps |
 | [Pelmorex Weather Source](./APIs/pelmorex-weather-source.md) | Oakville, Ontario, Canada | Free self-serve / sales contact | Freemium | forecast, historical, air quality, alerts, nowcast |
+| [Pirate Weather](./APIs/pirate-weather.md) | Ontario, Canada | Instant self-serve | Freemium | forecast, minute precip, alerts (US), historical |
 | [The Weather Company](./APIs/the-weather-company.md) | Brookhaven, Georgia, USA | Trial form / Buy now / sales contact | Paid | current, forecast, alerts, historical, imagery |
 | [Tomorrow.io](./APIs/tomorrow-io.md) | Boston, Massachusetts, USA | Free self-serve / sales contact | Freemium | real-time, forecast, historical, air quality, alerts |
 | [Xweather](./APIs/xweather.md) | Eden Prairie, Minnesota, USA (Vaisala, Finland) | Instant self-serve | Paid | conditions, forecast, lightning, hail, road weather |
