@@ -11,6 +11,7 @@ There are no category folders by design; this table is how you slice the catalog
 | [Foreca](./APIs/foreca.md) | Espoo, Finland | Free trial / list pricing / sales contact | Paid | forecast, maps, air quality, marine, warnings |
 | [MET Norway (Yr)](./APIs/met-norway.md) | Oslo, Norway | No key (User-Agent required) | Free | forecast, nowcast, marine, sunrise/sunset |
 | [Open-Meteo](./APIs/open-meteo.md) | Bürglen, Switzerland | No key (non-commercial) | Free / freemium | forecast, historical, marine, air quality |
+| [OpenWeather](./APIs/openweather.md) | London, UK | Instant self-serve | Freemium | current, forecast, historical, air quality, maps |
 | [Pelmorex Weather Source](./APIs/pelmorex-weather-source.md) | Oakville, Ontario, Canada | Free self-serve / sales contact | Freemium | forecast, historical, air quality, alerts, nowcast |
 | [The Weather Company](./APIs/the-weather-company.md) | Brookhaven, Georgia, USA | Trial form / Buy now / sales contact | Paid | current, forecast, alerts, historical, imagery |
 | [Tomorrow.io](./APIs/tomorrow-io.md) | Boston, Massachusetts, USA | Free self-serve / sales contact | Freemium | real-time, forecast, historical, air quality, alerts |
