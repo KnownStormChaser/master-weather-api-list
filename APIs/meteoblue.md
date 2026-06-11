@@ -1,0 +1,17 @@
+### meteoblue
+
+Swiss multi-model weather API suite from meteoblue, blending 30+ weather models with machine learning and nowcasting behind forecast, historical, dataset, maps, climate, measurements, and warnings products — with a genuinely self-serve Free Weather API and sales-quoted commercial access above it.
+
+- **Based in:** Basel, Switzerland
+- **Access model:** Mixed — the **Free Weather API** is instant self-serve (create a free meteoblue account, activate a one-year trial, generate a key); the commercial Weather APIs require **sales contact** — you email meteoblue to apply for an API key and pricing is quoted per use case (the public pricing page routes to "Contact us")
+- **Pricing model:** Freemium (free self-serve credit-based trial; commercial tiers custom / contact for pricing)
+- **Coverage / data types:** point forecasts (hourly/daily, multiple package levels including nowcasting, wind/solar/agro/marine/air-quality variables), historical/measurements (real-time station observations; History API single-variable series), Dataset API (80+ years of archive data for bulk analysis), Maps API (weather map tiles, satellite, radar), Image API (meteograms, pictoprints, cross-sections as PNG), Climate Data API (historical climate + future projections), City Climate API, and a Warnings API aggregating official alerts from 100+ countries; plus location-search, account, domains, and crop-risk helper APIs
+- **Free tier:** ongoing self-serve — the Free Weather API gives a one-year trial with 10,000,000 credits, **non-commercial use only**; each call deducts credits according to package complexity (simple forecast packages cost fewer credits than ones adding nowcasting); more credits can be purchased self-serve (card, PayPal, Sofort) to extend access another 12 months
+- **Paid tiers:** commercial Weather API access is custom / contact for pricing, offered as **demand-based or flat-rate** plans; the credit-based self-serve top-ups (purchased in varying amounts, each extending access 12 months) sit alongside the contact-sales commercial agreements
+- **Rate limits:** default 500 calls/minute without further agreement; API keys are typically also capped by calls/day per individual data package, image, or map tile (limits set per agreement)
+- **Output formats:** JSON and CSV for data packages; PNG for Image and Maps products
+- **Geographic strength:** global, hyperlocal (forecasts retrievable by lat/lon anywhere, kept current via nowcasting from 250,000+ stations plus radar and satellite); Switzerland/Europe is the home market
+- **Notable limitations:** the Free Weather API is non-commercial only; commercial use requires a contact-sales agreement with no public price list; pricing/usage is metered in "credits" whose per-call cost varies by package complexity, making cost estimation less transparent; per-package daily call caps and a 500/min default rate limit apply; advanced products (Dataset, Climate Data, City Climate, Maps) are separate offerings rather than one bundle; API-key signing (shared secret), referrer/origin, and IP allow-lists are offered to protect keys
+- **Built on:** meteoblue's multi-model approach combining 30+ NWP weather models with proprietary machine-learning post-processing and nowcasting (measurement stations, radar, satellite); 250,000+ weather stations feed the system
+- **Docs:** https://docs.meteoblue.com/en/weather-apis/introduction/overview
+- **Last verified:** 2026-06
