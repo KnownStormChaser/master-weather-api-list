@@ -8,6 +8,7 @@ There are no category folders by design; this table is how you slice the catalog
 |---|---|---|---|---|
 | [AccuWeather](./APIs/accuweather.md) | State College, Pennsylvania, USA | Instant self-serve | Paid | current, forecast, MinuteCast, alerts, imagery |
 | [Apple WeatherKit](./APIs/weatherkit.md) | Cupertino, California, USA | Paid account, instant | Paid | current, forecast, alerts, minute precip, historical |
+| [Foreca](./APIs/foreca.md) | Espoo, Finland | Free trial / list pricing / sales contact | Paid | forecast, maps, air quality, marine, warnings |
 | [MET Norway (Yr)](./APIs/met-norway.md) | Oslo, Norway | No key (User-Agent required) | Free | forecast, nowcast, marine, sunrise/sunset |
 | [Open-Meteo](./APIs/open-meteo.md) | Bürglen, Switzerland | No key (non-commercial) | Free / freemium | forecast, historical, marine, air quality |
 | [Pelmorex Weather Source](./APIs/pelmorex-weather-source.md) | Oakville, Ontario, Canada | Free self-serve / sales contact | Freemium | forecast, historical, air quality, alerts, nowcast |
