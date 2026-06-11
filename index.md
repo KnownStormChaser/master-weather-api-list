@@ -10,6 +10,7 @@ There are no category folders by design; this table is how you slice the catalog
 | [Apple WeatherKit](./APIs/weatherkit.md) | Cupertino, California, USA | Paid account, instant | Paid | current, forecast, alerts, minute precip, historical |
 | [MET Norway (Yr)](./APIs/met-norway.md) | Oslo, Norway | No key (User-Agent required) | Free | forecast, nowcast, marine, sunrise/sunset |
 | [Open-Meteo](./APIs/open-meteo.md) | Bürglen, Switzerland | No key (non-commercial) | Free / freemium | forecast, historical, marine, air quality |
+| [Pelmorex Weather Source](./APIs/pelmorex-weather-source.md) | Oakville, Ontario, Canada | Free self-serve / sales contact | Freemium | forecast, historical, air quality, alerts, nowcast |
 | [The Weather Company](./APIs/the-weather-company.md) | Brookhaven, Georgia, USA | Trial form / Buy now / sales contact | Paid | current, forecast, alerts, historical, imagery |
 
 *Rows are kept alphabetical by provider name. The three above are seed examples — replace or extend them as real entries land in `APIs/`.*
