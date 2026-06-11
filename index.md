@@ -13,5 +13,6 @@ There are no category folders by design; this table is how you slice the catalog
 | [Pelmorex Weather Source](./APIs/pelmorex-weather-source.md) | Oakville, Ontario, Canada | Free self-serve / sales contact | Freemium | forecast, historical, air quality, alerts, nowcast |
 | [The Weather Company](./APIs/the-weather-company.md) | Brookhaven, Georgia, USA | Trial form / Buy now / sales contact | Paid | current, forecast, alerts, historical, imagery |
 | [Tomorrow.io](./APIs/tomorrow-io.md) | Boston, Massachusetts, USA | Free self-serve / sales contact | Freemium | real-time, forecast, historical, air quality, alerts |
+| [Xweather](./APIs/xweather.md) | Eden Prairie, Minnesota, USA (Vaisala, Finland) | Instant self-serve | Paid | conditions, forecast, lightning, hail, road weather |
 
 *Rows are kept alphabetical by provider name. The three above are seed examples — replace or extend them as real entries land in `APIs/`.*
