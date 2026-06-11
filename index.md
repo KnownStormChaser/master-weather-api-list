@@ -17,6 +17,7 @@ There are no category folders by design; this table is how you slice the catalog
 | [OpenWeather](./APIs/openweather.md) | London, UK | Instant self-serve | Freemium | current, forecast, historical, air quality, maps |
 | [Pelmorex Weather Source](./APIs/pelmorex-weather-source.md) | Oakville, Ontario, Canada | Free self-serve / sales contact | Freemium | forecast, historical, air quality, alerts, nowcast |
 | [Pirate Weather](./APIs/pirate-weather.md) | Ontario, Canada | Instant self-serve | Freemium | forecast, minute precip, alerts (US), historical |
+| [Rainbow Weather](./APIs/rainbow-weather.md) | Warsaw, Poland | Instant self-serve | Freemium | precipitation nowcast, map tiles, forecast |
 | [The Weather Company](./APIs/the-weather-company.md) | Brookhaven, Georgia, USA | Trial form / Buy now / sales contact | Paid | current, forecast, alerts, historical, imagery |
 | [Tomorrow.io](./APIs/tomorrow-io.md) | Boston, Massachusetts, USA | Free self-serve / sales contact | Freemium | real-time, forecast, historical, air quality, alerts |
 | [Visual Crossing](./APIs/visual-crossing.md) | Reston, Virginia, USA | Instant self-serve / sales contact | Freemium | current, forecast, historical, maps, air quality |
