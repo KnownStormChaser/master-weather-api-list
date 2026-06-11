@@ -11,6 +11,7 @@ There are no category folders by design; this table is how you slice the catalog
 | [CustomWeather](./APIs/customweather.md) | Mill Valley, California, USA | Self-serve / sales contact | Paid | current, forecast, marine, severe, map tiles |
 | [Foreca](./APIs/foreca.md) | Espoo, Finland | Free trial / list pricing / sales contact | Paid | forecast, maps, air quality, marine, warnings |
 | [MET Norway (Yr)](./APIs/met-norway.md) | Oslo, Norway | No key (User-Agent required) | Free | forecast, nowcast, marine, sunrise/sunset |
+| [meteoblue](./APIs/meteoblue.md) | Basel, Switzerland | Free self-serve / sales contact | Freemium | forecast, historical, maps, climate, warnings |
 | [Open-Meteo](./APIs/open-meteo.md) | Bürglen, Switzerland | No key (free) / self-serve (paid) | Freemium | forecast, historical, marine, air quality |
 | [OpenWeather](./APIs/openweather.md) | London, UK | Instant self-serve | Freemium | current, forecast, historical, air quality, maps |
 | [Pelmorex Weather Source](./APIs/pelmorex-weather-source.md) | Oakville, Ontario, Canada | Free self-serve / sales contact | Freemium | forecast, historical, air quality, alerts, nowcast |
