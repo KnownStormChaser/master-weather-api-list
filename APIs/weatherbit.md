@@ -1,0 +1,17 @@
+### Weatherbit
+
+Multi-source global weather API from Weatherbit, blending 20+ datasets behind current, forecast, historical, air-quality, ag-weather, lightning, and energy endpoints — with a limited non-commercial free plan and self-serve paid tiers.
+
+- **Based in:** Clayton, North Carolina, USA
+- **Access model:** Instant self-serve — sign up for an API key; the Free, Standard, Plus, and Business plans are all self-serve sign-up/subscribe; Enterprise (>2M requests/day, custom) is sales contact. A 21-day Business trial (up to 1,500 requests/day, no card) is also available
+- **Pricing model:** Freemium (limited always-free non-commercial plan; self-serve paid tiers; Enterprise custom)
+- **Coverage / data types:** current conditions, severe weather alerts, daily (up to 16-day), hourly (240-hour/10-day) and minutely (60-minute) forecasts; current & historical lightning; weather map tiles; historical (daily/hourly/sub-hourly) and climate normals; air quality (current/forecast/historical, AQI + pollen where available); Ag-Weather (soil temperature/moisture, evapotranspiration, radiation); Energy / Degree-Day API; geocoding. 30+ language options; metric/imperial/scientific units
+- **Free tier:** ongoing — Free plan: 50 requests/day, 7-day daily forecast plus current weather & severe alerts, **non-commercial use only**, 1 request/sec, 1 API key, 95% uptime, no historical data and no support. Separately, a 21-day Business trial offers up to 1,500 requests/day
+- **Paid tiers (monthly / annual-billed):** Standard $49 / $45 mo (25,000 req/day, 16-day + hourly + minutely forecasts, current lightning, maps, commercial license; 25 req/sec); Plus $209 / $195 mo (250,000 req/day, +5-year historical, historical lightning, climate normals; 50 req/sec, 10,000 historical req/day at 25/sec); Business $495 / $475 mo (2M req/day, +air quality, Ag-Weather, Energy/Degree-Day, 25-year historical; 150 req/sec, 100,000 historical req/day at 50/sec, 10 API keys); Enterprise from $995 / $950 mo (>2M req/day, >25-year history, custom rates/SLA, S3/FTP upload, custom terms/invoicing). Support add-ons billed separately: Basic included, Priority $100/mo, Premium $500/mo
+- **Rate limits:** per-day request quotas (50 free → 2M Business → >2M Enterprise) plus per-second velocity limits (1/sec free, 25/sec Standard, 50/sec Plus, 150/sec Business); historical endpoints carry their own per-day and per-second caps; exceeding either returns HTTP 429
+- **Output formats:** JSON
+- **Geographic strength:** global; forecast resolution roughly 1–13 km, highest in North America and Europe (also where the API is geographically redundant)
+- **Notable limitations:** the Free plan is non-commercial only, with no historical data, no 10-day/minutely forecasts, 50 requests/day, and no support — commercial use requires a paid plan; historical depth is tier-gated (5 years on Plus, 25 on Business, >25 on Enterprise); air quality, Ag-Weather, and Energy/Degree-Day are Business/Enterprise-only; custom S3/FTP upload and custom terms/invoicing are Enterprise-only; stored API data must be deleted if a paid subscription lapses (unless bought via a custom historical order); support beyond Basic is a paid add-on; JSON-only output
+- **Built on:** Weatherbit's blend of 20+ weather and environmental datasets — surface stations, radar, satellite, and NWP models plus IMERG, ERA5 (reanalysis), and MRMS — dynamically selecting and bias-correcting the best-performing model inputs per location and time
+- **Docs:** https://www.weatherbit.io/api
+- **Last verified:** 2026-06
