@@ -10,6 +10,7 @@ There are no category folders by design; this table is how you slice the catalog
 | [Apple WeatherKit](./APIs/weatherkit.md) | Cupertino, California, USA | Paid account, instant | Paid | current, forecast, alerts, minute precip, historical |
 | [CustomWeather](./APIs/customweather.md) | Mill Valley, California, USA | Self-serve / sales contact | Paid | current, forecast, marine, severe, map tiles |
 | [Foreca](./APIs/foreca.md) | Espoo, Finland | Free trial / list pricing / sales contact | Paid | forecast, maps, air quality, marine, warnings |
+| [Infoplaza](./APIs/infoplaza.md) | Houten, Utrecht, Netherlands | Free self-serve / sales contact | Freemium | forecast, minute precip, climate |
 | [MET Norway (Yr)](./APIs/met-norway.md) | Oslo, Norway | No key (User-Agent required) | Free | forecast, nowcast, marine, sunrise/sunset |
 | [meteoblue](./APIs/meteoblue.md) | Basel, Switzerland | Free self-serve / sales contact | Freemium | forecast, historical, maps, climate, warnings |
 | [Open-Meteo](./APIs/open-meteo.md) | Bürglen, Switzerland | No key (free) / self-serve (paid) | Freemium | forecast, historical, marine, air quality |
