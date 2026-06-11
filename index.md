@@ -6,6 +6,7 @@ There are no category folders by design; this table is how you slice the catalog
 
 | Provider | Based in | Access | Pricing | Coverage |
 |---|---|---|---|---|
+| [AccuWeather](./APIs/accuweather.md) | State College, Pennsylvania, USA | Instant self-serve | Paid | current, forecast, MinuteCast, alerts, imagery |
 | [MET Norway (Yr)](./APIs/met-norway.md) | Oslo, Norway | No key (User-Agent required) | Free | forecast, nowcast, marine, sunrise/sunset |
 | [Open-Meteo](./APIs/open-meteo.md) | Bürglen, Switzerland | No key (non-commercial) | Free / freemium | forecast, historical, marine, air quality |
 | [The Weather Company](./APIs/the-weather-company.md) | Brookhaven, Georgia, USA | Trial form / Buy now / sales contact | Paid | current, forecast, alerts, historical, imagery |
