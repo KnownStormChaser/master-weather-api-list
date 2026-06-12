@@ -1,0 +1,17 @@
+### WeatherAPI.com
+
+Developer-friendly global weather REST API from UK company Zoomash Ltd (the same operator behind WorldWeatherOnline, positioned as its lower-cost self-serve sibling), bundling realtime, forecast, future, history, marine, air quality, pollen, astronomy, sports, and bulk endpoints behind a commercial-use-permitted free tier and cheap self-serve paid plans.
+
+- **Based in:** London, UK (operated by Zoomash Ltd, 86–90 Paul Street, London EC2A 4NE — same legal entity, address, and VAT number as WorldWeatherOnline; Companies House No. 07838145)
+- **Access model:** Instant self-serve — sign up, get an API key; Free, Starter, Pro+, and Business plans are all self-serve (14-day trial on paid). Enterprise is sales contact
+- **Pricing model:** Freemium (ongoing free tier with commercial use permitted; self-serve paid tiers; Enterprise custom)
+- **Coverage / data types:** realtime/current, up to 14-day hourly forecast, future weather (14–300 days ahead), historical (from 1 Jan 2010), marine + tides, weather alerts, air quality (AQI), pollen, solar irradiance, evapotranspiration, wind-at-100m, weather map tiles, location search/autocomplete, IP lookup, astronomy, time zone, and a sports (football/cricket/golf) endpoint; 30+ languages, metric/imperial; bulk multi-location requests (Pro+ and above). An MCP server is offered for AI-agent use
+- **Free tier:** ongoing — 100K calls/month (uncommon among free tiers for **allowing commercial use**); realtime + 3-day forecast, 1-day history, limited alerts/AQI/sports, weather maps; link-back attribution requested; 95.5% uptime, no SLA
+- **Paid tiers (USD/month; ~10% off yearly):** Starter $7 (3M calls, 7-day history, 7-day forecast, marine, solar, AQI, alerts); Pro+ $25 (5M calls, 365-day history, 300-day future, +tide data, bulk); Business $65 (10M calls, history to 2010, +evapotranspiration, IP blocking, 99.9% uptime); Enterprise custom / contact (custom volume, 15-min interval data, pollen/AQI history, solar/wind-100m history, sports history, 100% uptime SLA). Over-quota usage stops returning data until upgrade or month reset (no overage billing)
+- **Rate limits:** monthly call quotas (100K free → 10M Business → custom Enterprise); quota resets 1st of month UTC; errors don't count; no published per-minute limit
+- **Output formats:** JSON and XML (JSONP supported); condition lists also offered as CSV/JSON/XML
+- **Geographic strength:** global, millions of locations; lookup by city, lat/lon, US ZIP, UK/Canada postcode, METAR, IATA code, or IP
+- **Notable limitations:** historical data is **archived forecast data, not measured actuals** (the provider states this plainly) — a meaningful caveat for analytics/insurance use; history depth, future weather, 15-min intervals, tides, bulk, and the specialist datasets (pollen/solar/ET/wind-100m history) are tier-gated, with several Enterprise-only; free tier asks for link-back attribution; SLA only on Enterprise; forecast data refreshes only every 4–6 hours
+- **Built on:** WeatherAPI's own in-house forecasting application, which ingests raw data from agencies including ECMWF, the WMO, NOAA GFS, the JMA model, and NASA satellite imagery, then applies terrain, altitude, and population adjustments; realtime conditions come from thousands of public and personal weather stations (updated every 10–15 min). Shares infrastructure/lineage with WorldWeatherOnline
+- **Docs:** https://www.weatherapi.com/docs/
+- **Last verified:** 2026-06
