@@ -26,6 +26,7 @@ There are no category folders by design; this table is how you slice the catalog
 | [Visual Crossing](./APIs/visual-crossing.md) | Reston, Virginia, USA | Instant self-serve / sales contact | Freemium | current, forecast, historical, maps, air quality |
 | [Weatherbit](./APIs/weatherbit.md) | Clayton, North Carolina, USA | Instant self-serve / sales contact | Freemium | current, forecast, historical, air quality, lightning |
 | [Weatherstack](./APIs/weatherstack.md) | Vienna, Austria | Instant self-serve / sales contact | Freemium | current, forecast, historical, marine, astronomy |
+| [WorldWeatherOnline](./APIs/worldweatheronline.md) | London, UK | Instant self-serve / sales contact | Freemium | current, forecast, historical, marine, ski |
 | [Xweather](./APIs/xweather.md) | Eden Prairie, Minnesota, USA (Vaisala, Finland) | Instant self-serve | Paid | conditions, forecast, lightning, hail, road weather |
 
 *Rows are kept alphabetical by provider name. The three above are seed examples — replace or extend them as real entries land in `APIs/`.*
