@@ -27,6 +27,7 @@ There are no category folders by design; this table is how you slice the catalog
 | [WeatherAPI.com](./APIs/weatherapi.md) | London, UK | Instant self-serve / sales contact | Freemium | realtime, forecast, historical, marine, air quality |
 | [Weatherbit](./APIs/weatherbit.md) | Clayton, North Carolina, USA | Instant self-serve / sales contact | Freemium | current, forecast, historical, air quality, lightning |
 | [Weatherstack](./APIs/weatherstack.md) | Vienna, Austria | Instant self-serve / sales contact | Freemium | current, forecast, historical, marine, astronomy |
+| [Windy API](./APIs/windy.md) | Prague, Czech Republic | Instant self-serve / by agreement | Freemium | point forecast, map tiles, webcams |
 | [WorldWeatherOnline](./APIs/worldweatheronline.md) | London, UK | Instant self-serve / sales contact | Freemium | current, forecast, historical, marine, ski |
 | [Xweather](./APIs/xweather.md) | Eden Prairie, Minnesota, USA (Vaisala, Finland) | Instant self-serve | Paid | conditions, forecast, lightning, hail, road weather |
 
