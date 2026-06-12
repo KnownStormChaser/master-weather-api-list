@@ -1,0 +1,17 @@
+### WorldWeatherOnline
+
+Long-running (since 2010) developer-focused weather API from UK company Zoomash Ltd, bundling a nine-endpoint suite — local forecast, history, marine, ski, astronomy, search, time zone, and bulk — behind one key, with a non-commercial free tier and self-serve, volume-customisable Pro plans from $1/month.
+
+- **Based in:** London, UK (operated by Zoomash Ltd, registered at 86–90 Paul Street, London EC2A 4NE; Companies House No. 07838145, incorporated 2011, originally "Zoomash Forecast and Digitech Ltd"; both directors are UK-resident British nationals — note: the company's X/Twitter profile may surface as "based in Albania" because that reflects where the account is operated from, not the company's registration)
+- **Access model:** Instant self-serve — sign up, get an API key (no card for the free trial); Free and Pro plans are self-serve. Enterprise is sales contact (14-day trial available)
+- **Pricing model:** Freemium (ongoing non-commercial free tier; self-serve paid Pro; Enterprise custom)
+- **Coverage / data types:** current conditions + up to 14/15-day hourly local forecasts, historical weather (hourly, since Jul 2008), marine/sailing (7-day, swell/tides), marine history (since Jan 2015), ski & mountain (elevation-band, 7-day), astronomy (sun/moon), location search/geocoding, time zone, and a bulk multi-location endpoint; 80+ parameters per call; severe-weather alerts embedded in responses; Enterprise adds pollen, solar, and evapotranspiration datasets. An MCP server is offered for AI-agent use
+- **Free tier:** ongoing — 100 requests/day, **non-commercial only** (personal/educational/research), credit attribution required, full API suite (local/marine/ski/history/astronomy), 95% uptime, no support
+- **Paid tiers:** Pro from $1/month — custom requests/day starting at 500, commercial use permitted, monthly climate averages, 15-minute interval data, email support, 99% uptime SLA, monthly or yearly billing (interactive pricing calculator scales cost by request volume); Enterprise custom / contact for pricing — custom quota, 15-min data, pollen/solar/ET datasets, multiple API keys, priority support, 100% uptime SLA, 14-day trial
+- **Rate limits:** per-day request quotas (100/day free → 500+/day Pro, customisable → custom on Enterprise); per-key usage dashboard; IP allow-listing on paid plans
+- **Output formats:** JSON, XML, and JSONP
+- **Geographic strength:** global (200+ countries, millions of locations); lookup by city, lat/lon, UK postcode, US ZIP, IP, or IATA code
+- **Notable limitations:** the free tier is non-commercial only and requires attribution — any commercial use needs Pro or Enterprise; Pro request volume (and price) is customised rather than fixed-tier, so the headline "$1/month" is an entry point, not a typical cost; specialist datasets (pollen, solar, evapotranspiration) and 15-minute intervals are Enterprise-gated; uptime SLA scales with tier (95/99/100%); the legal entity name (Zoomash Ltd) differs from the brand, which can complicate due diligence
+- **Built on:** WorldWeatherOnline describes a proprietary high-resolution forecasting system and "AI-powered" marine accuracy, but does not publicly enumerate the underlying NWP models or data sources. (For context, WWO is also the upstream data provider behind several other APIs — e.g. Weatherstack's forecast/marine responses — and WeatherAPI.com is a sibling/partner brand)
+- **Docs:** https://www.worldweatheronline.com/weather-api/api/docs/
+- **Last verified:** 2026-06
