@@ -14,6 +14,7 @@ There are no category folders by design; this table is how you slice the catalog
 | [Infoplaza](./APIs/infoplaza.md) | Houten, Utrecht, Netherlands | Free self-serve / sales contact | Freemium | forecast, minute precip, climate |
 | [MET Norway (Yr)](./APIs/met-norway.md) | Oslo, Norway | No key (User-Agent required) | Free | forecast, nowcast, marine, sunrise/sunset |
 | [Meteomatics](./APIs/meteomatics.md) | St. Gallen, Switzerland | Sales contact (trial available) | Custom | forecast, historical, marine, air quality, climate |
+| [Meteosource](./APIs/meteosource.md) | Czech Republic | Instant self-serve / sales contact | Freemium | current, forecast, historical, air quality, maritime |
 | [meteoblue](./APIs/meteoblue.md) | Basel, Switzerland | Free self-serve / sales contact | Freemium | forecast, historical, maps, climate, warnings |
 | [Open-Meteo](./APIs/open-meteo.md) | Bürglen, Switzerland | No key (free) / self-serve (paid) | Freemium | forecast, historical, marine, air quality |
 | [OpenWeather](./APIs/openweather.md) | London, UK | Instant self-serve | Freemium | current, forecast, historical, air quality, maps |
