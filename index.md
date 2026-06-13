@@ -40,15 +40,16 @@ There are no category folders by design; these tables are how you slice the cata
 
 ## Government & public services
 
-Official met offices and public-service providers. Most are free or low-cost, government-funded, and licensed under terms like CC BY / NLOD with attribution required rather than a commercial SLA. Many are **single-country** in scope — this is the section to check first for your country's authoritative API.
+Official met offices and public-service providers. Most are free or low-cost, government-funded, and licensed under terms like CC BY / NLOD with attribution required rather than a commercial SLA. Many are **single-country** in scope — this is the section to check first for your country's authoritative API. Note that some (e.g. the Met Office) sell their data commercially; that's recorded in the entry rather than moving them to the other table.
 
 | Provider | Based in | Scope | Access | Pricing | Data types |
 |---|---|---|---|---|---|
 | [Environment and Climate Change Canada (MSC GeoMet)](./APIs/eccc-geomet.md) | Gatineau, Quebec, Canada (CMC in Dorval) | Single-country | No key (anonymous, free) | Free | forecast, alerts, observations, radar, climate, hydrometric, air quality |
 | [MET Norway (Yr)](./APIs/met-norway.md) | Oslo, Norway | Global | No key (User-Agent required) | Free | forecast, nowcast, marine, sunrise/sunset |
+| [Met Office (Weather DataHub)](./APIs/met-office.md) | Exeter, Devon, UK | Global | Instant self-serve | Freemium | site-specific forecast, observations, model data (GRIB2), map images |
 | [National Weather Service (NWS)](./APIs/nws.md) | Silver Spring, Maryland, USA | Single-country | No key (User-Agent required) | Free | forecast, alerts, observations, marine, text products |
 
-*This section is seeded with MET Norway, the US National Weather Service, and Environment and Climate Change Canada. Other national services — the UK Met Office's public feeds, DWD, Météo-France, and more — will land here too. Note that several met offices also sell global commercial tiers; they stay here (still government-run), with the commercial product noted in the entry rather than split across both tables.*
+*This section is seeded with MET Norway, the US National Weather Service, Environment and Climate Change Canada, and the UK Met Office. Other national services — DWD, Météo-France, and more — will land here too. Note that several met offices also sell commercial tiers (the Met Office does so by default); they stay here (still government-run), with the commercial product noted in the entry rather than split across both tables.*
 
 ---
 
