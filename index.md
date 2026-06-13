@@ -45,8 +45,9 @@ Official met offices and public-service providers. Most are free or low-cost, go
 | Provider | Based in | Scope | Access | Pricing | Data types |
 |---|---|---|---|---|---|
 | [MET Norway (Yr)](./APIs/met-norway.md) | Oslo, Norway | Global | No key (User-Agent required) | Free | forecast, nowcast, marine, sunrise/sunset |
+| [National Weather Service (NWS)](./APIs/nws.md) | Silver Spring, Maryland, USA | Single-country | No key (User-Agent required) | Free | forecast, alerts, observations, marine, text products |
 
-*This section is seeded with MET Norway and is where incoming national services — NOAA (USA), Environment and Climate Change Canada, the UK Met Office's public feeds, DWD, Météo-France, and others — will land. Note that several met offices also sell global commercial tiers; they stay here (still government-run), with the commercial product noted in the entry rather than split across both tables.*
+*This section is seeded with MET Norway and the US National Weather Service. Other national services — Environment and Climate Change Canada, the UK Met Office's public feeds, DWD, Météo-France, and more — will land here too. Note that several met offices also sell global commercial tiers; they stay here (still government-run), with the commercial product noted in the entry rather than split across both tables.*
 
 ---
 
