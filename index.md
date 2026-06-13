@@ -47,9 +47,10 @@ Official met offices and public-service providers. Most are free or low-cost, go
 | [Environment and Climate Change Canada (MSC GeoMet)](./APIs/eccc-geomet.md) | Gatineau, Quebec, Canada (CMC in Dorval) | Single-country | No key (anonymous, free) | Free | forecast, alerts, observations, radar, climate, hydrometric, air quality |
 | [MET Norway (Yr)](./APIs/met-norway.md) | Oslo, Norway | Global | No key (User-Agent required) | Free | forecast, nowcast, marine, sunrise/sunset |
 | [Met Office (Weather DataHub)](./APIs/met-office.md) | Exeter, Devon, UK | Global | Instant self-serve | Freemium | site-specific forecast, observations, model data (GRIB2), map images |
+| [Meteo.lt (LHMT)](./APIs/meteo-lt.md) | Vilnius, Lithuania | Single-country | No key (anonymous, free) | Free | forecast, observations, hydrological |
 | [National Weather Service (NWS)](./APIs/nws.md) | Silver Spring, Maryland, USA | Single-country | No key (User-Agent required) | Free | forecast, alerts, observations, marine, text products |
 
-*This section is seeded with MET Norway, the US National Weather Service, Environment and Climate Change Canada, and the UK Met Office. Other national services — DWD, Météo-France, and more — will land here too. Note that several met offices also sell commercial tiers (the Met Office does so by default); they stay here (still government-run), with the commercial product noted in the entry rather than split across both tables.*
+*This section is seeded with MET Norway, the US National Weather Service, Environment and Climate Change Canada, the UK Met Office, and the Lithuanian Hydrometeorological Service. Other national services — DWD, Météo-France, and more — will land here too. Note that several met offices also sell commercial tiers (the Met Office does so by default); they stay here (still government-run), with the commercial product noted in the entry rather than split across both tables.*
 
 ---
 
