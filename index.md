@@ -33,6 +33,7 @@ There are no category folders by design; these tables are how you slice the cata
 | [WeatherAPI.com](./APIs/weatherapi.md) | London, UK | Global | Instant self-serve / sales contact | Freemium | realtime, forecast, historical, marine, air quality |
 | [Weatherbit](./APIs/weatherbit.md) | Clayton, North Carolina, USA | Global | Instant self-serve / sales contact | Freemium | current, forecast, historical, air quality, lightning |
 | [Weatherstack](./APIs/weatherstack.md) | Vienna, Austria | Global | Instant self-serve / sales contact | Freemium | current, forecast, historical, marine, astronomy |
+| [WillyWeather](./APIs/willyweather.md) | Bondi Junction, New South Wales, Australia | Single-country | Instant self-serve / sales contact | Freemium | forecast, observations, tides, swell, warnings, maps |
 | [Windy API](./APIs/windy.md) | Prague, Czech Republic | Global | Instant self-serve / by agreement | Freemium | point forecast, map tiles, webcams |
 | [WorldWeatherOnline](./APIs/worldweatheronline.md) | London, UK | Global | Instant self-serve / sales contact | Freemium | current, forecast, historical, marine, ski |
 | [Xweather](./APIs/xweather.md) | Eden Prairie, Minnesota, USA (Vaisala, Finland) | Global | Instant self-serve | Paid | conditions, forecast, lightning, hail, road weather |
