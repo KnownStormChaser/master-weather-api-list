@@ -17,6 +17,7 @@ There are no category folders by design; these tables are how you slice the cata
 | [CustomWeather](./APIs/customweather.md) | Mill Valley, California, USA | Global | Self-serve / sales contact | Paid | current, forecast, marine, severe, map tiles |
 | [Foreca](./APIs/foreca.md) | Espoo, Finland | Global | Free trial / list pricing / sales contact | Paid | forecast, maps, air quality, marine, warnings |
 | [Frogcast](./APIs/frogcast.md) | Le Bourget-du-Lac, Savoie, France | Global | Instant self-serve | Paid | forecast, polygon, historical, probabilistic |
+| [GribStream](./APIs/gribstream.md) | Not disclosed | Global | Instant self-serve / sales contact | Freemium | model data, forecast archive, reanalysis actuals, ensembles |
 | [Infoplaza](./APIs/infoplaza.md) | Houten, Utrecht, Netherlands | Global | Free self-serve / sales contact | Freemium | forecast, minute precip, climate |
 | [meteoblue](./APIs/meteoblue.md) | Basel, Switzerland | Global | Free self-serve / sales contact | Freemium | forecast, historical, maps, climate, warnings |
 | [Meteomatics](./APIs/meteomatics.md) | St. Gallen, Switzerland | Global | Sales contact (trial available) | Custom | forecast, historical, marine, air quality, climate |
