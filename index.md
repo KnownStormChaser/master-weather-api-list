@@ -28,6 +28,7 @@ There are no category folders by design; these tables are how you slice the cata
 | [OpenWeather](./APIs/openweather.md) | London, UK | Global | Instant self-serve | Freemium | current, forecast, historical, air quality, maps |
 | [Pelmorex Weather Source](./APIs/pelmorex-weather-source.md) | Oakville, Ontario, Canada | Global | Free self-serve / sales contact | Freemium | forecast, historical, air quality, alerts, nowcast |
 | [Pirate Weather](./APIs/pirate-weather.md) | Ontario, Canada | Global | Instant self-serve | Freemium | forecast, minute precip, alerts (US), historical |
+| [QWeather](./APIs/qweather.md) | Beijing, China | Global | Instant self-serve / sales contact | Freemium | current, forecast, warnings, air quality, tides, solar |
 | [Rainbow Weather](./APIs/rainbow-weather.md) | Warsaw, Poland | Global | Instant self-serve | Freemium | precipitation nowcast, map tiles, forecast |
 | [The Weather Company](./APIs/the-weather-company.md) | Brookhaven, Georgia, USA | Global | Trial form / Buy now / sales contact | Paid | current, forecast, alerts, historical, imagery |
 | [Tomorrow.io](./APIs/tomorrow-io.md) | Boston, Massachusetts, USA | Global | Free self-serve / sales contact | Freemium | real-time, forecast, historical, air quality, alerts |
