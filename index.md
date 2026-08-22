@@ -32,6 +32,7 @@ There are no category folders by design; these tables are how you slice the cata
 | [Pirate Weather](./APIs/pirate-weather.md) | Ontario, Canada | Global | Instant self-serve | Freemium | forecast, minute precip, alerts (US), historical |
 | [QWeather](./APIs/qweather.md) | Beijing, China | Global | Instant self-serve / sales contact | Freemium | current, forecast, warnings, air quality, tides, solar |
 | [Rainbow Weather](./APIs/rainbow-weather.md) | Warsaw, Poland | Global | Instant self-serve | Freemium | precipitation nowcast, map tiles, forecast |
+| [Solcast](./APIs/solcast.md) | Sydney, Australia (DNV, Norway) | Global | Free self-serve / sales contact | Custom | irradiance, PV power, forecast, live, historical, TMY |
 | [Spire Global (Spire Weather)](./APIs/spire-global.md) | Vienna, Virginia, USA | Global | Sales contact (trial available) | Custom | forecast, current, marine/route, tides, lightning, storm tracks |
 | [Stormglass](./APIs/stormglass.md) | Degerhamn, Öland, Sweden | Global | Instant self-serve / sales contact | Paid | weather, marine, tide, solar, bio-ocean, elevation |
 | [The Weather Company](./APIs/the-weather-company.md) | Brookhaven, Georgia, USA | Global | Trial form / Buy now / sales contact | Paid | current, forecast, alerts, historical, imagery |
