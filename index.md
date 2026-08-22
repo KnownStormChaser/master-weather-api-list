@@ -35,6 +35,7 @@ There are no category folders by design; these tables are how you slice the cata
 | [Solcast](./APIs/solcast.md) | Sydney, Australia (DNV, Norway) | Global | Free self-serve / sales contact | Custom | irradiance, PV power, forecast, live, historical, TMY |
 | [Spire Global (Spire Weather)](./APIs/spire-global.md) | Vienna, Virginia, USA | Global | Sales contact (trial available) | Custom | forecast, current, marine/route, tides, lightning, storm tracks |
 | [Stormglass](./APIs/stormglass.md) | Degerhamn, Öland, Sweden | Global | Instant self-serve / sales contact | Paid | weather, marine, tide, solar, bio-ocean, elevation |
+| [Tempest (WeatherFlow-Tempest)](./APIs/tempest.md) | Santa Cruz, California, USA | Global | Hardware purchase (personal) / sales contact | Custom | observations, forecast, lightning, statistics, radar, tides |
 | [The Weather Company](./APIs/the-weather-company.md) | Brookhaven, Georgia, USA | Global | Trial form / Buy now / sales contact | Paid | current, forecast, alerts, historical, imagery |
 | [Tomorrow.io](./APIs/tomorrow-io.md) | Boston, Massachusetts, USA | Global | Free self-serve / sales contact | Freemium | real-time, forecast, historical, air quality, alerts |
 | [Visual Crossing](./APIs/visual-crossing.md) | Reston, Virginia, USA | Global | Instant self-serve / sales contact | Freemium | current, forecast, historical, maps, air quality |
