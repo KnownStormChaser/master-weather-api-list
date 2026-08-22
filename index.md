@@ -58,7 +58,7 @@ Official met offices and public-service providers. Most are free or low-cost, go
 | Provider | Based in | Scope | Access | Pricing | Data types |
 |---|---|---|---|---|---|
 | [Environment and Climate Change Canada (MSC GeoMet)](./APIs/eccc-geomet.md) | Gatineau, Quebec, Canada (CMC in Dorval) | Single-country | No key (anonymous, free) | Free | forecast, alerts, observations, radar, climate, hydrometric, air quality |
-| [LVĢMC (Latvian Environment, Geology and Meteorology Centre)](./APIs/lvgmc.md) | Riga, Latvia | Single-country | No key (anonymous, free) | Free | forecast, gridded forecast, observations, warnings, hydrological |
+| [LVĢMC (Latvian Environment, Geology and Meteorology Centre)](./APIs/lvgmc.md) | Riga, Latvia | Single-country | No key (anonymous, free) | Free | forecast, observations, lightning, warnings, hydrological forecast |
 | [MET Norway (Yr)](./APIs/met-norway.md) | Oslo, Norway | Global | No key (User-Agent required) | Free | forecast, nowcast, marine, sunrise/sunset |
 | [Met Office (Weather DataHub)](./APIs/met-office.md) | Exeter, Devon, UK | Global | Instant self-serve | Freemium | site-specific forecast, observations, model data (GRIB2), map images |
 | [Meteo.lt (LHMT)](./APIs/meteo-lt.md) | Vilnius, Lithuania | Single-country | No key (anonymous, free) | Free | forecast, observations, hydrological |
