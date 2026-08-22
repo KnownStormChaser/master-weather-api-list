@@ -13,6 +13,7 @@ There are no category folders by design; these tables are how you slice the cata
 | Provider | Based in | Scope | Access | Pricing | Data types |
 |---|---|---|---|---|---|
 | [AccuWeather](./APIs/accuweather.md) | State College, Pennsylvania, USA | Global | Instant self-serve | Paid | current, forecast, MinuteCast, alerts, imagery |
+| [Ambee](./APIs/ambee.md) | Bengaluru, India (Ambee Inc., Princeton, NJ, USA) | Global | Free self-serve / sales contact | Custom | current, forecast, air quality, pollen, wildfire, disasters |
 | [Apple WeatherKit](./APIs/weatherkit.md) | Cupertino, California, USA | Global | Paid account, instant | Paid | current, forecast, alerts, minute precip, historical |
 | [Azure Maps Weather](./APIs/azure-maps-weather.md) | Redmond, Washington, USA | Global | Instant self-serve / sales contact | Freemium | current, forecast, alerts, air quality, tropical, climatology |
 | [CustomWeather](./APIs/customweather.md) | Mill Valley, California, USA | Global | Self-serve / sales contact | Paid | current, forecast, marine, severe, map tiles |
