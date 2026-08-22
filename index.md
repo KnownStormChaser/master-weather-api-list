@@ -16,6 +16,7 @@ There are no category folders by design; these tables are how you slice the cata
 | [Ambee](./APIs/ambee.md) | Bengaluru, India (Ambee Inc., Princeton, NJ, USA) | Global | Free self-serve / sales contact | Custom | current, forecast, air quality, pollen, wildfire, disasters |
 | [Apple WeatherKit](./APIs/weatherkit.md) | Cupertino, California, USA | Global | Paid account, instant | Paid | current, forecast, alerts, minute precip, historical |
 | [Azure Maps Weather](./APIs/azure-maps-weather.md) | Redmond, Washington, USA | Global | Instant self-serve / sales contact | Freemium | current, forecast, alerts, air quality, tropical, climatology |
+| [Bright Sky](./APIs/brightsky.md) | Germany | Global | No key (anonymous, free) | Free | forecast, observations, radar, alerts, solar |
 | [CustomWeather](./APIs/customweather.md) | Mill Valley, California, USA | Global | Self-serve / sales contact | Paid | current, forecast, marine, severe, map tiles |
 | [DTN](./APIs/dtn.md) | Bloomington, Minnesota, USA (TBG AG, Zurich) | Global | Sales contact | Custom | forecast, observations, lightning, radar, tropical, renewables |
 | [Foreca](./APIs/foreca.md) | Espoo, Finland | Global | Free trial / list pricing / sales contact | Paid | forecast, maps, air quality, marine, warnings |
