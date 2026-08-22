@@ -31,6 +31,7 @@ The goal is to make it easy to discover:
 - Pure map-tile or radar-viewer products with no queryable data API (may be added later)
 - Retired or discontinued APIs (except where noted for historical context)
 - For now, **archive/historical-only or radar-only services** — point and area forecast APIs come first; other categories may follow
+- **Bulk data platforms and file servers with no point-forecast query.** Some national services publish forecast model output as downloadable GRIB/NetCDF grids (and sometimes as OGC map or coverage services) without ever exposing "give me the forecast for this location" as a query. Those belong with the models, not here — see [master-weather-model-list](https://github.com/KnownStormChaser/master-weather-model-list). A provider qualifies for this catalog if *any* of its products returns a forecast for a location you supply (coordinate, station, or place name); once it's in, its gridded and bulk products are documented in the entry alongside.
 
 A note on commercial APIs: a paywall is a reason to exclude a model from the companion repository, but it is **not** a reason to exclude an API here. Each entry labels its **pricing model** and, separately, its **access model**, so you can tell "sign up and start in minutes" apart from "email sales and wait." That access distinction is often more useful than the dollar figure, and it changes far less often.
 
