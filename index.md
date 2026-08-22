@@ -35,6 +35,7 @@ There are no category folders by design; these tables are how you slice the cata
 | [Visual Crossing](./APIs/visual-crossing.md) | Reston, Virginia, USA | Global | Instant self-serve / sales contact | Freemium | current, forecast, historical, maps, air quality |
 | [WeatherAPI.com](./APIs/weatherapi.md) | London, UK | Global | Instant self-serve / sales contact | Freemium | realtime, forecast, historical, marine, air quality |
 | [Weatherbit](./APIs/weatherbit.md) | Clayton, North Carolina, USA | Global | Instant self-serve / sales contact | Freemium | current, forecast, historical, air quality, lightning |
+| [Weathernews (WxTech®︎ Data)](./APIs/weathernews-wxtech.md) | Chiba, Japan | Multi-country | Sales contact (trial available) | Custom | forecast, observations, historical, radar, indices, aviation |
 | [Weatherstack](./APIs/weatherstack.md) | Vienna, Austria | Global | Instant self-serve / sales contact | Freemium | current, forecast, historical, marine, astronomy |
 | [WillyWeather](./APIs/willyweather.md) | Bondi Junction, New South Wales, Australia | Single-country | Instant self-serve / sales contact | Freemium | forecast, observations, tides, swell, warnings, maps |
 | [Windy API](./APIs/windy.md) | Prague, Czech Republic | Global | Instant self-serve / by agreement | Freemium | point forecast, map tiles, webcams |
