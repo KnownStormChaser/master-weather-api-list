@@ -14,6 +14,7 @@ There are no category folders by design; these tables are how you slice the cata
 |---|---|---|---|---|---|
 | [AccuWeather](./APIs/accuweather.md) | State College, Pennsylvania, USA | Global | Instant self-serve | Paid | current, forecast, MinuteCast, alerts, imagery |
 | [Apple WeatherKit](./APIs/weatherkit.md) | Cupertino, California, USA | Global | Paid account, instant | Paid | current, forecast, alerts, minute precip, historical |
+| [Azure Maps Weather](./APIs/azure-maps-weather.md) | Redmond, Washington, USA | Global | Instant self-serve / sales contact | Freemium | current, forecast, alerts, air quality, tropical, climatology |
 | [CustomWeather](./APIs/customweather.md) | Mill Valley, California, USA | Global | Self-serve / sales contact | Paid | current, forecast, marine, severe, map tiles |
 | [Foreca](./APIs/foreca.md) | Espoo, Finland | Global | Free trial / list pricing / sales contact | Paid | forecast, maps, air quality, marine, warnings |
 | [Frogcast](./APIs/frogcast.md) | Le Bourget-du-Lac, Savoie, France | Global | Instant self-serve | Paid | forecast, polygon, historical, probabilistic |
